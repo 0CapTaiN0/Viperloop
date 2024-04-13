@@ -1,2 +1,0 @@
-[console_scripts]
-viperloop = viperloop.network_dns:main

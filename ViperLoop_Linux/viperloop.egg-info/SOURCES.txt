@@ -1,9 +1,0 @@
-setup.py
-viperloop/__init__.py
-viperloop/main.py
-viperloop.egg-info/PKG-INFO
-viperloop.egg-info/SOURCES.txt
-viperloop.egg-info/dependency_links.txt
-viperloop.egg-info/entry_points.txt
-viperloop.egg-info/requires.txt
-viperloop.egg-info/top_level.txt

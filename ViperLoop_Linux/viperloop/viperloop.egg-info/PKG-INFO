@@ -1,6 +1,0 @@
-Metadata-Version: 2.1
-Name: viperloop
-Version: 1.0.0
-Requires-Dist: colorama
-Requires-Dist: psutil
-Requires-Dist: netifaces
