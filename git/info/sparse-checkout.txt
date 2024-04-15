@@ -1,1 +1,0 @@
-echo "ViperLoop_Linux" >> .git/info/sparse-checkout
