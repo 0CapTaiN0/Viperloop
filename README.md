@@ -53,7 +53,6 @@
 16. Level 3
 
 
-wget https://github.com/0CapTaiN0/Viperloop/archive/refs/heads/main.tar.gz -O Viperloop.tar.gz
 
 
 <p align=center>
